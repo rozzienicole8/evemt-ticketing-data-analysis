@@ -42,7 +42,27 @@ The database was created using Supabase PostgreSQL with three relational tables:
 <img width="1366" height="768" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e53c06a1-a1d0-4700-9bde-c8c5e8418e12" />
 <img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/6ff687eb-5154-4005-a72f-988a26850554" />
 
+## 🔌 R to Supabase Connection
 
+RStudio Cloud was used to connect to Supabase using RPostgres.
+
+### Connection Established
+![R Connection]
+<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/860e7cc4-c55d-42de-8497-70f0118fefbb" />
+)
+
+## 📊 Analysis Outputs
+
+### Revenue per Event
+<img width="513" height="289" alt="5146d1c0-66b8-4d2a-af92-998e6d56fa29" src="https://github.com/user-attachments/assets/ef3410d6-9cfc-4557-b11c-764ed17336e9" />
+
+
+### Ticket Type Distribution
+<img width="513" height="289" alt="758ece29-1cca-4917-b7b8-2068b87a6410" src="https://github.com/user-attachments/assets/5d968ba9-e850-41dd-a2bd-e235d5971609" />
+
+
+### Ticket Status Distribution
+<img width="513" height="289" alt="468865c7-3d2b-48f1-b6cd-36cb3c2c8574" src="https://github.com/user-attachments/assets/7a743f55-faec-49e0-b255-7fe655495690" />
 
 ---
 
