@@ -19,6 +19,17 @@ The dataset includes three tables: **events**, **customers**, and **tickets**, w
 
 ---
 
+## 🎯 Objectives
+The main objectives of this project are:
+
+- Analyze ticket sales performance across different events  
+- Identify peak sales periods and seasonal trends  
+- Evaluate revenue generation and profitability  
+- Examine the relationship between ticket pricing and demand  
+- Provide actionable recommendations for event organizers  
+
+---
+
 ### Key Features
 - Cloud database connection using Supabase
 - SQL joins across relational tables
@@ -49,6 +60,15 @@ RStudio Cloud was used to connect to Supabase using RPostgres.
 ![R Connection]
 <img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/860e7cc4-c55d-42de-8497-70f0118fefbb" />
 )
+
+## ❓ Key Analysis Questions
+This project is guided by the following analytical questions:
+
+1. Which events generate the highest revenue?  
+2. What are the peak ticket sales periods?  
+3. How does ticket pricing influence ticket sales?  
+4. What trends can be observed across different time periods?  
+5. Which factors contribute most to profitability?  
 
 ## 📊 Analysis Outputs
 
