@@ -144,7 +144,8 @@ The script will:
 
 ### ▶️ Run the Project
 
-```r
+----
+``
 source("analysis.R")
 This will:
 
@@ -153,7 +154,25 @@ This will:
 - Perform analysis
 - Generate visualizations
 -----
-```
+
+``
+## 🚀 Recommendations
+Based on the analysis, the following recommendations are proposed:
+
+- Increase event frequency during peak demand periods  
+- Adopt dynamic pricing strategies to maximize revenue  
+- Invest in marketing for high-performing events  
+- Continuously monitor sales data for trend identification  
+
+---
+
+## ⭐ Future Improvements
+- Integration with real-time data sources  
+- Advanced predictive analytics (forecasting ticket sales)  
+- Customer segmentation analysis  
+- Enhanced interactive dashboards 
+  
+----
 ## 👥 Authors
 
 👤 **Rozzie Nicole**
