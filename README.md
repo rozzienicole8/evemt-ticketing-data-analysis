@@ -83,7 +83,7 @@ RStudio Cloud was used to connect to Supabase using RPostgres.
 
 ---
 
-### Install
+ ### Install
 
 Run in R:
 
@@ -92,3 +92,24 @@ install.packages("DBI")
 install.packages("RPostgres")
 install.packages("dplyr")
 install.packages("ggplot2")
+
+```
+### 💻 Usage
+
+To run this project, execute the main R script in **Posit Cloud (RStudio Cloud)** after setting up the Supabase connection.
+
+The script will:
+- Connect to the Supabase PostgreSQL database
+- Extract data from the `events`, `customers`, and `tickets` tables
+- Perform data analysis using `dplyr`
+- Generate visualizations using `ggplot2`
+- Save output plots in the `images/` folder
+
+---
+
+### ▶️ Run the Project
+
+```r
+source("analysis.R")
+----
+
