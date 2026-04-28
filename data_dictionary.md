@@ -55,6 +55,7 @@ The purpose of this dataset is to support data analysis tasks such as:
 - The **tickets** table links events and customers through foreign keys
 
 ---
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/546181e0-c71b-4c82-b458-02aa6c5bb003" />
 
 ## 📊 Analytical Use
 
