@@ -1,7 +1,6 @@
 # 📊 Event Ticketing Data Analysis
 
-## 📖 About the Project
-This project analyzes an **Event Ticketing System** using **R (Posit Cloud)** and **Supabase (PostgreSQL)**.  
+## 📖 About the Project  
 This project focuses on analyzing event ticketing data to uncover key insights into sales performance, revenue trends, and customer demand patterns. The objective is to simulate a real-world business scenario where event organizers use data-driven insights to optimize ticket pricing, improve event planning, and maximize revenue. By applying data analysis techniques, this project transforms raw ticketing data into meaningful insights that support strategic decision-making.
 
 The dataset includes three tables: **events**, **customers**, and **tickets**, which are used to evaluate revenue, ticket distribution, and event performance.
