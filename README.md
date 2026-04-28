@@ -68,7 +68,23 @@ This project is guided by the following analytical questions:
 2. What are the peak ticket sales periods?  
 3. How does ticket pricing influence ticket sales?  
 4. What trends can be observed across different time periods?  
-5. Which factors contribute most to profitability?  
+5. Which factors contribute most to profitability?
+
+## 📈 Key Insights
+
+### 1. Revenue Performance
+High-performing events contribute a significant portion of total revenue, indicating the importance of strategic event selection and marketing.
+
+### 2. Sales Trends
+Ticket sales tend to peak during specific periods, suggesting seasonal demand patterns that can be leveraged for scheduling future events.
+
+### 3. Pricing Strategy
+Ticket pricing shows a direct impact on sales volume. Moderately priced tickets often achieve higher sales compared to premium pricing models.
+
+### 4. Demand Patterns
+Certain events consistently attract higher attendance, indicating strong customer preferences and potential for repeat success.
+
+---
 
 ## 📊 Analysis Outputs
 
