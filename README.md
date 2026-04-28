@@ -111,5 +111,11 @@ The script will:
 
 ```r
 source("analysis.R")
-----
+This will:
 
+- Connect to Supabase
+- Extract data
+- Perform analysis
+- Generate visualizations
+----
+```
