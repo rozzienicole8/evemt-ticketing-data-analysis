@@ -117,5 +117,13 @@ This will:
 - Extract data
 - Perform analysis
 - Generate visualizations
+-----
+```
+## 👥 Authors
+
+👤 **Rozzie Nicole**
+
+- GitHub: [@nicolerozzie9@gmail.com](https://github.com/nicolerozzie9@gmail.com)
+
 ----
 ```
