@@ -144,8 +144,7 @@ The script will:
 
 ### ▶️ Run the Project
 
-----
-``
+
 source("analysis.R")
 This will:
 
@@ -155,7 +154,6 @@ This will:
 - Generate visualizations
 -----
 
-``
 ## 🚀 Recommendations
 Based on the analysis, the following recommendations are proposed:
 
